@@ -2,9 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*main - prints a random number +,-,0.
-*
-*return: always 0.
+*Description: this program expresses +,-,=
 */
 int main(void)
 {
