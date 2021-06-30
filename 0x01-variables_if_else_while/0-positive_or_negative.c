@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
 *main - prints negative or positive
-*@void: no argument
+*
 *Return: 0
 */
 int main(void)
