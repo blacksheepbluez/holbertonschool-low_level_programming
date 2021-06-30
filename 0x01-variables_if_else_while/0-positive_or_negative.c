@@ -3,8 +3,7 @@
 #include <stdio.h>
 /*
 *
-*Description: this program determines whether the randomizer is posotive or negative
-*Return: returns 0
+*Description: this program determines the randomizer +, =
 */
 int main(void)
 {
@@ -17,7 +16,7 @@ if (n == 0)
 printf("%d is zero\n", n);
 else if (n > 0)
 printf("%d is negative\n", n);
-else if (n > 0)
+else if (n < 0)
 printf("%d is posotive\n", n);
 return (0);
 }
