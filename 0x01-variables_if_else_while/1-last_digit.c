@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - prints whether or not n greater than 5, less than 6, or 0.
-*return (0);
+*main - entry point
+*return: Always 0 (success)
 */
 int main(void)
 int n;
