@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*main - prints and determines whether the integer is positive or negative.
-*Description: this program determines the randomizer +, =
+*main - prints a random number and states whether it is posotive, negative, or zero.
+*
 *return: always 0.
 */
 int main(void)
