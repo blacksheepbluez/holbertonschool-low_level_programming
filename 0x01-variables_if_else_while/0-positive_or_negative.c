@@ -6,9 +6,9 @@
 /* betty style doc for function main goes there */
 int main(int argc, char *argv[])
 {
-  srand(time(NULL));
-  printf("%d\n", rand());
-  printf("%d\n", rand());
-  printf("%d\n", rand());
-  return 0;
+srand(time(NULL));
+printf("%d\n", rand());
+printf("%d\n", rand());
+printf("%d\n", rand());
+return (0);
 }
