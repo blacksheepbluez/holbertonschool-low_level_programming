@@ -2,9 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*main - printf(negative or positive)
-*
-*return always 0
+*main - prints negative or positive
 */
 int main(void)
 {
