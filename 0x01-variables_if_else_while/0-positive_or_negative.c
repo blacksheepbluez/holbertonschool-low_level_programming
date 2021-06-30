@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*main - prints what is said in description.
+*main - prints and determines whether the integer is positive or negative.
 *Description: this program determines the randomizer +, =
 *return: always 0.
 */
