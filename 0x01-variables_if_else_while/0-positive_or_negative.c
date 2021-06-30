@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*Description: this program expresses +,-,=
+*main - printf(negative or positive)
+*
+*return always 0
 */
 int main(void)
 {
