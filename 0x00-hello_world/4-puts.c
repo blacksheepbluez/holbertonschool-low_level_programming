@@ -1,3 +1,8 @@
+/*
+ * File: 4-puts.c
+ * Auth: Samuel Alberts
+ */
+
 #include <stdio.h>
 
 /**
