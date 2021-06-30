@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /*
-*
+*main - prints what is said in description.
 *Description: this program determines the randomizer +, =
+*return: always 0.
 */
 int main(void)
 {
@@ -13,7 +14,7 @@ srand(time(0));
 n = rand() - RAND_MAX / 2;
 
 if (n > 0)
-printf("%d is posotive\n", n);
+printf("%d is positive\n", n);
 else if (n < 0)
 printf("%d is negative\n", n);
 else
