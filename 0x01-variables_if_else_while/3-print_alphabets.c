@@ -6,12 +6,11 @@
 */
 int main(void)
 {
-char xyz;
-for (xyz = 'a'; xyz <= 'z'; xyz++)
-putchar (xyz);
-putchar ('\n')
-for (xyz = 'A'; xyz <= 'A'; xyz++)
-putchar (xyz);
+char betty;
+for (betty = 'a'; betty <= 'z'; betty++)
+putchar (betty);
+for (betty = 'A'; betty <= 'A'; betty++)
+putchar (betty);
 putchar('\n');
 return (0);
 }
