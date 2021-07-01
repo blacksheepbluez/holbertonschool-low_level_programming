@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - entry with code to holbielife
-*return: to 0.
-*/
+ *main - prints ot the holbielife
+ *
+ *Return: 0
+ */
 int main(void)
 {
 int n;
