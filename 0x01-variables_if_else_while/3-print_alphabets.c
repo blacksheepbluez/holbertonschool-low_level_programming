@@ -1,14 +1,15 @@
 #include <stdio.h>
 /**
- main - prints the alphabet using the putchar function.
+ *main - alternates alphabet characters using putchar function
  *
- Return: 0.
+ * Return: 0.
 */
 int main(void)
 {
 char xyz;
 for (xyz = 'a'; xyz <= 'z'; xyz++)
 putchar (xyz);
+putchar ('\n')
 for (xyz = 'A'; xyz <= 'A'; xyz++)
 putchar (xyz);
 putchar('\n');
