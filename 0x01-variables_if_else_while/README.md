@@ -1,3 +1,9 @@
-this is a module learning the variables "if" "else" and "while" inside the C programming platform.
+Betty is great. here is the header that's needed to please her in this project.
 
-resource for 0==   https://www.youtube.com/watch?v=rXaxUQvrtzs == A link to a Randomizer for 
+#include <stdio.h>
+
+/**
+ * main - debugging example
+  * Return: 0
+   */
+   int main(void)    
